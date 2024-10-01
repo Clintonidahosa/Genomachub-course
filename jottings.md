@@ -1,5 +1,3 @@
-# Module 1: Introduction to Genomics
-
 ## Central Dogma: DNA >> RNA >> Protein
 - Information flows from DNA to RNA to Protein.
 - **Note**: Information is never passed from proteins to nucleic acids.
