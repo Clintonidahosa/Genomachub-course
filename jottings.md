@@ -1,24 +1,41 @@
-Module 1
-DNA >> RNA >> Protein. (Information is never passed from proteins to nucleic acids)
-Nucleotide bases- purines(Adenine and guanine) with 2 carbon-nitrogen rings AND pyrimidine (thymine and cytosine) with 1 carbon nitrogen ring. 
-In RNA, Thymine is replaced with uracil
-Bacteria has about 600,000 base pairs  while human and mouse genomes contain about 3 billion. 
-Genome is the complete set of genes within an organism.
-Some key genomics technologies- Sanger sequencing( traditional method used for sequencing DNA)
-                                Next generation sequencing (allows parallel sequencing of millions of DNA fragements)
-                                PCR
-                                Microarray technology (allows for simultaneous analysis of expression levels of thousands of genes)
-                                CRISPR (Enables precise modification of genes within an organism's DNA)
-THE PROCESS - Sample collection
-              DNA extraction 
-              Amplification (optional)
-              DNA sequencing 
-              Data generation 
-              Data analysis using bioinformatics tools
-Bioinformatics file format - the standardized structure for storing and organizing biological data in a digital file e.g FASTA, FASTQ, Genbank, GFF, 
-TERMINOLOGIES
--Genome assembly - piecing together short DNA reads to create a complete genome
--Variant calling - identifying genetic variations such as SNPs and Indels
--Functional annotation - determining the role of genes and non- coding regions 
--Comparative genomics - studying similarities and differences across species 
--Metagenomics - studying the genetic material of microbial communities and ecosystems
+# Module 1: Introduction to Genomics
+
+## Central Dogma: DNA >> RNA >> Protein
+- Information flows from DNA to RNA to Protein.
+- **Note**: Information is never passed from proteins to nucleic acids.
+
+## Nucleotide Bases
+- **Purines**: Adenine (A) and Guanine (G) – Two carbon-nitrogen rings.
+- **Pyrimidines**: Thymine (T) and Cytosine (C) – One carbon-nitrogen ring.
+- In RNA, **Thymine** is replaced with **Uracil** (U).
+
+## Genomic Comparisons
+- **Bacteria**: Approximately 600,000 base pairs.
+- **Human and Mouse**: Approximately 3 billion base pairs.
+- **Genome**: The complete set of genes within an organism.
+
+## Key Genomics Technologies
+- **Sanger Sequencing**: Traditional method used for sequencing DNA.
+- **Next-Generation Sequencing (NGS)**: Allows parallel sequencing of millions of DNA fragments.
+- **PCR (Polymerase Chain Reaction)**: Amplifies DNA.
+- **Microarray Technology**: Allows for simultaneous analysis of expression levels of thousands of genes.
+- **CRISPR**: Enables precise modification of genes within an organism's DNA.
+
+## The Process of Genomics Research
+1. **Sample Collection**
+2. **DNA Extraction**
+3. **Amplification** (Optional)
+4. **DNA Sequencing**
+5. **Data Generation**
+6. **Data Analysis** using bioinformatics tools
+
+## Bioinformatics File Formats
+- Standardized structures for storing and organizing biological data in digital files.
+  - Examples: **FASTA**, **FASTQ**, **Genbank**, **GFF**
+
+## Terminologies in Genomics
+- **Genome Assembly**: Piecing together short DNA reads to create a complete genome.
+- **Variant Calling**: Identifying genetic variations such as SNPs (Single Nucleotide Polymorphisms) and Indels (Insertions and Deletions).
+- **Functional Annotation**: Determining the role of genes and non-coding regions.
+- **Comparative Genomics**: Studying similarities and differences across species.
+- **Metagenomics**: Studying the genetic material of microbial communities and ecosystems.
