@@ -1,0 +1,1 @@
+- **In this repository, I documented what I learnt from the Genomics course and also the projects done**
